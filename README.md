@@ -1,2 +1,2 @@
 # AIForGamesEngines
-AI For Games Project
+AI For Games Group Project
